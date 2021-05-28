@@ -1,0 +1,1 @@
+# codeforces_contest_1506B
